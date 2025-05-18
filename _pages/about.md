@@ -14,19 +14,18 @@ My research interests include LLM Alignment, LLM Safety,  Reinforcement learning
 Publication
 ======
 
+## 2025
+
+| **Title** | **Conference** | **Materials** |
+|-----------|-----------------|---------------|
+| [MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming](paper1.pdf) | ACL 2025 | [📝 PDF](/papers/cvpr24_vision_transformers.pdf) \| [💻 Code](https://github.com/yourname/vision-transformers) |
+| [LLMs are Noisy Oracles!LLM-based Noise-aware Graph Active Learning for Node Classification](paper2.pdf) | KDD 2025 | [📝 PDF](/papers/icml24_cross_modal.pdf) \| [💻 Code](https://github.com/yourname/cross-modal) |
+
 ## 2024
 
 | **Title** | **Conference** | **Materials** |
 |-----------|-----------------|---------------|
-| [Lightweight Vision Transformers for Edge Devices](paper1.pdf) | CVPR 2024 | [📝 PDF](/papers/cvpr24_vision_transformers.pdf) \| [💻 Code](https://github.com/yourname/vision-transformers) |
-| [Cross-Modal Retrieval with Dynamic Query Expansion](paper2.pdf) | ICML 2024 | [📝 PDF](/papers/icml24_cross_modal.pdf) \| [💻 Code](https://github.com/yourname/cross-modal) |
-
-## 2023
-
-| **Title** | **Conference** | **Materials** |
-|-----------|-----------------|---------------|
-| [Efficient Federated Learning for Healthcare Systems](paper3.pdf) | NeurIPS 2023 | [📝 PDF](/papers/neurips23_federated.pdf) \| [💻 Code](https://github.com/yourname/federated-health) |
-| [3D Object Reconstruction via Neural Radiance Fields](paper4.pdf) | SIGGRAPH Asia 2023 | [📝 PDF](/papers/siggraph23_nerf.pdf) \| [💻 Code](https://github.com/yourname/nerf-reconstruction) |
+| [IntFair: Graph Neural Networks for Fair Recommendations with Interest Awareness](paper3.pdf) | DASFAA 2024 | [📝 PDF](https://dblp.org/rec/conf/dasfaa/GuoCZ24.html) \| [💻 Code](https://github.com/yourname/federated-health) |
 
 
 
